@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephendewyer
 - 👀 I’m interested in using digital technology and art to improve services
-- 🌱 I’m currently learning machine learning and database design using PostgreSQL
+- 🌱 I’m currently learning Node.js, machine learning and advanced database design using PostgreSQL
 - 💞️ I’m looking to collaborate on building infrastructure for networks that empower the art community and strengthen democracy
 - 📫 Email: stephen.dewyer@stephengdewyer.info
 <!---
