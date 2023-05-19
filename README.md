@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephendewyer
 - 👀 I’m interested in creating software that empowers communities using advancements in art, digital technology and user experience design
-- 🌱 I’m currently learning machine learning using Python and R, 3D web graphics and TypeScript
+- 🌱 I’m currently learning machine learning using Python, 3D web graphics and TypeScript
 - 💞️ I’m looking to collaborate on creating software that improves design for the public and businesses
 - 📫 Email: stephen.dewyer@stephengdewyer.info
 - In computer programming, I'm skilled in SvelteKit, Svelte, Next.js, React, GraphQL, Node, Python, JavaScript, PHP, HTML, CSS, JSON, PostgreSQL, MySQL, MongoDB, WCAG 2.1 and GIT
