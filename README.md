@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @stephendewyer
+- I'm Founding Director, Full-stack Web Developer and UX Designer at Art in Tech Services (https://artintechservices.com)
+- I'm Founder, UX Designer, Full-stack Web Developer and Board Director at Public Arts Commission (https://publicartscommission.org)
 - 👀 I’m interested in creating software that empowers communities using advancements in art, digital technology and user experience design
 - 🌱 I’m currently learning Java and AI deep learning
 - 💞️ I’m looking to collaborate on creating software that helps empower communities to solve some of our most challenging problems
